@@ -1,0 +1,13 @@
+.Mar{
+  
+  margin: 5% ;
+  padding: 0;
+ 
+}
+.profile-img {
+  width: 100%;
+  height: auto; /* Keeps the aspect ratio */
+  object-fit: cover; /* Adjusts image to cover the container */
+}
+
+
